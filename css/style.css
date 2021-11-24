@@ -1,0 +1,21 @@
+.header {
+    position: absolute;
+}
+.logo {
+    margin-top: 34px;
+    margin-left: 50px;
+    width: 80px;
+}
+.navigation {
+    width: 1014px;
+    margin-top: 34px;
+    margin: -40px;
+    text-align: center;
+}
+.container{
+    background-color: rgba(242, 242, 242, 1);
+    height: 900px;
+}
+.w {
+    
+}
