@@ -6,6 +6,13 @@
     margin-left: 50px;
     width: 80px;
 }
+.text-color {
+    color: chartreuse;
+}
+.color {
+    text-decoration: none;
+    color: black;
+}
 .navigation {
     position: relative;
     width: 1014px;
@@ -23,7 +30,25 @@
     margin-top: -18px;
 }
 .button {
+    color: cornsilk;
     border-radius: 4px;
     background-color: rgb(1, 190, 1);
 }
+.text {
 
+    margin-left: 60px;
+    margin-top: -738px;
+    text-align: center;
+    width: 822px;
+    height: 160px;
+}
+.text2 {
+    margin-top: -100px;
+    margin-left: 230px;
+    text-align: center;
+    width: 492px;
+    height: 81px;
+}
+.afte2 {
+    text-align: center;
+}
