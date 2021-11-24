@@ -7,6 +7,7 @@
     width: 80px;
 }
 .navigation {
+    position: relative;
     width: 1014px;
     margin-top: 34px;
     margin: -40px;
@@ -16,6 +17,13 @@
     background-color: rgba(242, 242, 242, 1);
     min-height: 900px;
 }
-.w {
-
+.afte {
+    position: relative;
+    margin-left: 700px;
+    margin-top: -18px;
 }
+.button {
+    border-radius: 4px;
+    background-color: rgb(1, 190, 1);
+}
+
